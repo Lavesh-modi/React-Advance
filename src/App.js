@@ -21,7 +21,7 @@ const RightSide =()=>{
 }
 function App() {
   return (
-   <SplitScreen Left={LeftSide}  Right={RightSide} leftWidth={1} rightWidth={3}  />
+   <SplitScreen Left={LeftSide}  Right={RightSide} leftWidth={2} rightWidth={2}  />
   );
 }
 
